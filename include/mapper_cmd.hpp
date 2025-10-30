@@ -1,11 +1,4 @@
-/**
- * @ Author: zauberflote1
- * @ Create Time: 2024-10-06 23:21:06
- * @ Modified by: zauberflote1
- * @ Modified time: 2024-10-11 03:44:18
- * @ Description:
- * PIPELINE TO VOXL-MAPPER VIA COMMANDS (HEADER)
- */
+
 
 #ifndef MAPPER_CMD_HPP
 #define MAPPER_CMD_HPP
