@@ -1,10 +1,3 @@
-/**
- * rc_transform_ringbuf.c
- *
- *
- * @author     james@modalai.com
- * @date       2021
- */
 
 
 
