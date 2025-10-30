@@ -1,13 +1,3 @@
-/**
- * @ Author: zauberflote1
- * @ Create Time: 2024-10-06 23:20:17
- * @ Modified by: zauberflote1
- * @ Modified time: 2024-10-11 19:31:20
- * @ Description:
- * PIPELINE TO VOXL-MAPPER VIA COMMANDS
- */
-
-
 #include "mapper_cmd.hpp"
 
 MapperCmd::MapperCmd() {
