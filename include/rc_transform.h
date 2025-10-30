@@ -1,10 +1,4 @@
-/**
- * rc_transform.h
- *
- *
- * @author     james@modalai.com
- * @date       2021
- */
+
 
 #ifndef VOXL_MAPPER_RC_TRANSFORM_H_
 #define VOXL_MAPPER_RC_TRANSFORM_H_
