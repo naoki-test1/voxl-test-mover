@@ -1,10 +1,4 @@
-/**
- * rc_transform.c
- *
- *
- * @author     james@modalai.com
- * @date       2021
- */
+
 
 #include <stdio.h>
 #include <string.h>
