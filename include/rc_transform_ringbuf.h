@@ -1,11 +1,4 @@
-/**
- * "rc_transform_ringbuf.h"
- *
- * @brief      ring buffer implementation for rc transforms
- *
- * @author     James Strawson
- * @date       2021
- */
+
 
 #ifndef VOXL_MAPPER_RC_TRANSFORM_RB_H_
 #define VOXL_MAPPER_RC_TRANSFORM_RB_H_
